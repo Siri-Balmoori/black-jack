@@ -1,4 +1,4 @@
-# black-jack
+# black-jack with agents
 modified version of Blackjack game where a human player interacts with three AI agents (A, B, and C).
 
 1. Basic Overview -
